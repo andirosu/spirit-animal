@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be5692c1-725e-4b0b-aaa8-51d9755d53d7" name="pegas - live" url="https://spirit-animal.bicicletapegas.ro">
+        <fileTransfer rootFolder="/home/pegas/lp/spirit-animal" accessType="SFTP" host="bicicletapegas.ro" port="1522" sshConfigId="4667689e-a2c3-48e1-9ed8-deabd74c6676" sshConfig="pegas@bicicletapegas.ro:1522 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

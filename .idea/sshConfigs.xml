@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="bicicletapegas.ro" id="4667689e-a2c3-48e1-9ed8-deabd74c6676" keyPath="$USER_HOME$/.ssh/id_rsa" port="1522" nameFormat="DESCRIPTIVE" username="pegas" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
